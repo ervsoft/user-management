@@ -1,0 +1,8 @@
+nav.navbar{
+    border: 1px solid #e7e7e7;
+    margin-bottom:20px;
+}
+a.nav-link.link-dark{
+    color: #000000;
+    font-weight: 200;
+}
